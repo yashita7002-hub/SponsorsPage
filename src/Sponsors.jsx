@@ -15,23 +15,22 @@ function Sponsors() {
       <div className="scanlines"></div>
       <div className="vignette"></div>
 
-      <div className="cyber-frame">
-        <div className="cyber-frame-tr"></div>
-        <div className="cyber-frame-bl"></div>
-      </div>
-
       {/* MAIN CONTAINER for the page content, allowing natural scrolling flow */}
       <main className="relative z-10 flex flex-col items-center w-full min-h-screen pt-24 pb-20">
         
         {/* SPONSORS HEADING AND DIVIDER */}
-        <div className="flex flex-col items-center mb-64">
+        <div className="relative flex flex-col items-center mb-64 py-12 w-full max-w-5xl">
+          <div className="cyber-frame">
+            <div className="cyber-frame-tr"></div>
+            <div className="cyber-frame-bl"></div>
+          </div>
           <h1 className="glitch" data-text="SPONSORS" style={{textShadow: '0 0 10px rgba(0, 255, 255, 0.5)'}}>SPONSORS</h1>
           {/* Subtle gradient divider reflecting the image's layout below the heading */}
           <div className="h-1 w-48 bg-gradient-to-r from-blue-500 to-purple-500 mt-2 rounded-full shadow-[0_0_10px_#00f7ff]"></div>
         </div>
 
         {/* SPONSOR CARDS */}
-        <div className="flex flex-wrap justify-center gap-12 w-full max-w-6xl px-4 mt-20">
+        <div className="flex flex-wrap justify-center gap-12 w-full max-w-6xl px-4 mt-48">
 
           {/* CARD 1 */}
           <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 
