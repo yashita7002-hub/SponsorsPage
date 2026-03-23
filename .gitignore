@@ -1,0 +1,91 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+   ../.thumbnails/
+        ../Animations/
+        ../Antigravity.lnk
+        ../BACKEND NOTES.docx
+        ../BUGSLAYERS.pptx
+        ../Backend/
+        ../CPP PRACTICE/
+        ../CTC TEST/
+        ../Chai aur backend/
+        ../DISASTER.docx
+        ../DSA/
+        ../DSD LAB/
+        ../Dictionary/
+        ../ENGINEERING/
+        ../Flexbox.docx
+        ../HACKATHON.docx
+        ../HTML CSS.docx
+        ../Interview/
+        ../JAVA/
+        ../Java2/
+        ../Microsoft Edge.lnk
+        ../Myntra Clone/
+        ../New Microsoft Word Document.docx
+        ../New folder/
+        ../Notepad++/
+        ../Number Theory.docx
+        ../Number Theory/
+        ../Opera Browser.lnk
+        ../PC.lnk
+        ../Postman.lnk
+        ../Practice/
+        ../Project 2/
+        ../Project1/
+        ../REACT/
+        ../RP/
+        ../SCSE/
+        ../STOCK.docx
+        ../Solutions PYQ/
+        ../TailwindTut/
+        ../Vector1.java
+        ../Visual Studio Code.lnk
+        ../WindowsXP/
+        ../Yashita - Chrome.lnk
+        ../beautifulgirl.jpeg
+        ../cyberpunk-city/
+        ../desktop.ini
+        ../downloads.lnk
+        ../evac-planner/
+        ../first.vhdl
+        ../ghdl.zip
+        ../ghdl/
+        ../macos26-community-landing/
+        ../mummy/
+        ../newFolder/
+        ../node-v24.13.0-x64.msi
+        ../pixel/
+        ../premium-auth/
+        ../random/
+        ../scse-society-gate/
+        ../scse-xavenir/
+        ../templatemo_580_woox_travel/
+        ../test/
+        ../vector.java
+        ../vhdl/
+        ../wallpaper1.png
+
